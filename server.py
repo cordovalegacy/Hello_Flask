@@ -32,3 +32,10 @@ if __name__=='__main__':
 #
 
 #The code above will create a web server and additional routes (similar to server.js in MERN)
+
+#
+##
+###pipenv install flask
+###pipenv shell
+##
+#
